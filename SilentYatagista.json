@@ -1,0 +1,24 @@
+{
+    "id": 116,
+    "name": "Silent Yatagista",
+    "author": "DudeArctik",
+    "creators": ["DudeArctik", "Extreme", "Skrejj009"],
+    "verifier": "",
+    "verification": "",
+    "status": "In verification",
+    "percentToQualify": 10,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Silent",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 11
+        },
+        {
+            "user": "Skrejj009r", 
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 19
+        }
+    ]
+}
+
